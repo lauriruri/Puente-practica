@@ -1,5 +1,6 @@
 """
 Solution to the one-way tunnel
+Laura Herrero
 """
 import time
 import random
