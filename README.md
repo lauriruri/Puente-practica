@@ -10,4 +10,4 @@ En el archivo 'skel.py' se encuentra una plantilla facilitada por el profesor de
 
 En el archivo 'ejercicioMonitoresLaura.pdf' se encuentra la solución al primer ejercicio de la práctica.
 
-En el archivo 'ejercicio_final.py' se encuentra la solución al ejercicio 2. Para esta se ha tomado como base 'skel.py'. 
+En el archivo 'ejercicio_final.py' se encuentra la solución al ejercicio 2. Para esta se ha tomado como base 'skel.py'. Si se desea ejecutar este programa es necesario llamar a la función main().
